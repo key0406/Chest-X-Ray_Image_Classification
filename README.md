@@ -1,7 +1,7 @@
 # Chest X-Ray Pneumonia Classification  
 EfficientNet-Based Clinical Image Classification with Docker Reproducibility  
 
-![Misclassified Examples](assets/misclassified_examples.png)
+![Misclassified Examples](Assets/misclassified_examples.png)
 
 ---
 
