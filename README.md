@@ -196,4 +196,4 @@ This project was developed to demonstrate:
 ## Author
 
 Koki Ohira  
-MSc Computer Science
+MSc Artificial Intelligence in KCL
